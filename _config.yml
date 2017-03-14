@@ -11,7 +11,7 @@ title                    : "Rui Ribeiro"
 title_separator          : "|"
 name                     : "Rui Ribeiro"
 description              : "The personal page of Rui Ribeiro."
-url                      : "https://wefbak.github.io"
+url                      : # "https://wefbak.github.io"
 baseurl                  : # "/blog"
 repository               : # "wefbak/wefbak.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Rui Ribeiro"
   avatar           : # "/assets/images/bio-photo.jpg"
-  bio              : "Hello, my name is Rui Ribeiro and I am a MSc degree student in Computer Science. "
+  bio              : "Hello, my name is Rui Ribeiro, a game enthusiastic with formation to make wonderfull web pages"
   location         : "Lisbon, Portugal"
   email            : "rfrgribeiro@gmail.com"
   uri              :
@@ -233,10 +233,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+title                    : "Rui Ribeiro"
+title_separator          : "|"
+name                     : "Rui Ribeiro"
+description              : "The personal page of Rui Ribeiro."
+url                      : "https://wefbak.github.io"
+baseurl                  : "/blog"
+repository               : "wefbak/wefbak.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google-site-verification=sPi5NjElx6iqpBdrw2HHahUaWHnoeKwNhqds5GMaQ3w"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Rui Ribeiro"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Hello, my name is Rui Ribeiro and I am a MSc degree student in Engineering Systems and Computer Engineering, at Instituto Superior Técnico, in Taguspark, Portugal. Currently I am at my final year in college and one of my main objectives is a career in Mobile Applications, Distributed Systems and Computer Security."
+  location         : "Lisbon, Portugal"
+  email            : "rfrgribeiro@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/wefbak"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ruiribeiro93/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)

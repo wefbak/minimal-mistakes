@@ -1,10 +1,10 @@
 # main links
 main:
-   title: "Home"
+   - title: "Home"
     url: http://ruiribeiro.me
-    title: "About"
-     url: /about/
-    title: "Contact"
-     url: /contact/
-    title: "Sitemap"
-     url: /sitemap/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Contact"
+  #   url: /contact/
+  # - title: "Sitemap"
+  #   url: /sitemap/
